@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Aller_rg;
+  src: url(/graphics/fonts/Aller_Rg.ttf); }
+@font-face {
+  font-family: Aller_bd;
+  src: url(/graphics/fonts/Aller_Bd.ttf); }
+* {
+  font-family: Aller_rg; }
+
+/*# sourceMappingURL=common.css.map */

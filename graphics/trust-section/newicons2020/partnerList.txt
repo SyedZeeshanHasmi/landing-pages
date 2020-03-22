@@ -1,0 +1,26 @@
+BIO    : Biocon Biopharmaceutical company
+BBH    : Bangalore Baptist Hospital
+CB     : Corporation Bank
+GCU    : Garden City University
+HAL    : Hindustan Aeronautics Limited
+HDCC   : Hassan Dist. Co-op. Central Bank Ltd.
+IBM    : International Business Machines Corporation
+IIMB   : Indian Institute of Management Bangalore
+IITM   : Indian Institute of Technology Madras
+ISRO   : Indian Space Research Organisation
+ITC    : ITC Infotech: IT Consulting, Strategy & Outsourcing Services Company
+MU     : Manipal 
+NetAPP : NetApp: Data Services for Hybrid Cloud
+NITK   : National Institute of Technology Karnataka
+RO     : Royal Orchid Hotels
+SPAV   : School of Planning and Architecture, Vijayawada
+TMG    : The Manipal Group
+VP     : Value Point Systems Pvt. Ltd.
+VO     : Vocera Communications India Private Limited
+WI     : Wipro Limited
+SU     : Subex
+SRIT   : SRIT
+OD     : Odessa
+CY     : Cyient
+RCM    : Visionary RCM
+AIIMS  : AIIMS

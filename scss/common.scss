@@ -1,0 +1,25 @@
+//  Color Scheme
+
+$primary-color: #c2d7f4;
+$heading-color: #152660;
+$btn-color: #fa6878;
+$text-dark: #4a4a4a;
+$text-light: #ababab;
+$bold: Aller_bd;
+
+
+// Font imports
+@font-face {
+  font-family: Aller_rg;
+  src: url(/graphics/fonts/Aller_Rg.ttf);
+}
+
+@font-face {
+  font-family: Aller_bd;
+  src: url(/graphics/fonts/Aller_Bd.ttf);
+}
+
+
+*{
+    font-family: Aller_rg;
+}
