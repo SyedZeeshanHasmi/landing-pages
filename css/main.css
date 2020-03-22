@@ -316,8 +316,13 @@ aside {
     .benefits h2 {
       font-size: 18px; }
     .benefits img {
-      width: 350px;
-      margin-top: 20%; } }
+      margin-top: 20%; }
+    .benefits .wrapper h6 {
+      font-size: 16px; }
+    .benefits .wrapper p {
+      width: 220px;
+      margin-top: 5%;
+      color: #4a4a4a; } }
 .help_sec {
   margin-top: 10%; }
   .help_sec h2 {
@@ -469,7 +474,7 @@ aside {
   background-size: cover; }
   .enable_sec h2 {
     width: 50%;
-    text-align: left;
+    text-align: center;
     color: #ffffff;
     font-size: 40px;
     font-weight: bold;
@@ -498,7 +503,7 @@ aside {
         text-align: center;
         margin: 3% auto;
         outline-color: #152660; }
-        .enable_sec .bucket .inp-bucket input:nth-of-type(2) {
+        .enable_sec .bucket .inp-bucket input:nth-of-type(3) {
           background-color: #fa6878;
           color: #ffffff;
           cursor: pointer; }
@@ -527,7 +532,7 @@ aside {
       margin: 3% auto;
       text-align: center;
       outline-color: #152660; }
-      .enable_sm_sec .inp-bucket input:nth-of-type(2) {
+      .enable_sm_sec .inp-bucket input:nth-of-type(3) {
         border: none;
         color: #ffffff;
         background-color: #fa6878; }

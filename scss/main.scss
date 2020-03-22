@@ -389,19 +389,19 @@ aside {
       font-size: 18px;
     }
     img {
-      width: 350px;
+      // width: 350px;
       margin-top: 20%;
     }
-    // .wrapper {
-    //   h6 {
-    //     font-size: 16px;
-    //   }
-    //   p {
-    //     width: 220px;
-    //     margin-top: 5%;
-    //     color: $text-dark;
-    //   }
-    // }
+    .wrapper {
+      h6 {
+        font-size: 16px;
+      }
+      p {
+        width: 220px;
+        margin-top: 5%;
+        color: $text-dark;
+      }
+    }
   }
 }
 
@@ -690,7 +690,7 @@ aside {
   background-size: cover;
   h2 {
     width: 50%;
-    text-align: left;
+    text-align: center;
     color: #ffffff;
     font-size: 40px;
     font-weight: bold;
@@ -727,7 +727,7 @@ aside {
         margin: 3% auto;
         outline-color: $heading-color;
 
-        &:nth-of-type(2) {
+        &:nth-of-type(3) {
           background-color: $btn-color;
           color: #ffffff;
           cursor: pointer;
@@ -764,7 +764,7 @@ aside {
       margin: 3% auto;
       text-align: center;
       outline-color: $heading-color;
-      &:nth-of-type(2) {
+      &:nth-of-type(3) {
         border: none;
         color: #ffffff;
         background-color: $btn-color;
